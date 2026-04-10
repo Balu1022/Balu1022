@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bala Surya Venkatesh Thatavarthy</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-- 🔭 I’m currently working on **Bank services**
+- 🔭 I’m currently working on **Bank Services Project Using Python and Django**
 
 - 🌱 I’m currently learning **React JS**
 
